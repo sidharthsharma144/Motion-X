@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![example workflow](https://github.com/reevald/ai-workout-assistant/actions/workflows/azure-static-web-apps-agreeable-stone-079552c10.yml/badge.svg)
 # AI Workout Assistant
 An web application to help everyone do workout wherever and whenever. Supported by the pose detector feature to analyze every pose and auto count the number of repetitions made. So, let's create a healthy life by do workout every day!
@@ -138,3 +139,7 @@ Image data which is obtained from video or webcam will be processed by pose dete
 # AthletiXpert
 AI-powered platform promoting physical activities with real-time recognition and challenges.
 >>>>>>> c9a60dc6fed44fa8cb7306bc31e6fc5b4ee3e19b
+=======
+# Motion-X
+AI-powered platform promoting physical activities with real-time recognition and challenges.
+>>>>>>> d1aab0988bfb70af0919c699a7da0cebafd6a86b
