@@ -20,5 +20,6 @@ module.exports = {
         warnings: false,
       },
     },
+    allowedHosts: 'all',  // Allow all hosts (resolves the "Invalid Host header" error)
   },
 };
